@@ -1,3 +1,4 @@
+//Write a program which reads in three integers and prints out their product.
 import java.util.Scanner;
 
     public class Thrice
