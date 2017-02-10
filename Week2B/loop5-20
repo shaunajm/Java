@@ -1,0 +1,16 @@
+//Write a program which will print out the numbers 5 down to 20 inclusive.
+public class FiveToTwenty
+{
+    public static void main(String [] args)
+    {
+        int i;
+        i = 5;
+        
+        while(i <= 20){
+            System.out.print(i + " ");
+            i++;
+        }
+       
+        System.out.println();
+    }
+}
