@@ -1,5 +1,5 @@
 //Add a deposit method to your BankAccount class. It will represent a deposit to your account and so the balance should be increased appropriately.
-public class BankAccount.java
+public class BankAccount
 {
     
     double balance;
@@ -15,7 +15,7 @@ public class BankAccount.java
     }
     public void deposit(double amount)
     {
-        deposit = deposit - amount;
+        balance = balance + amount;
         
     }
 }
