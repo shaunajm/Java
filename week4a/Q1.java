@@ -1,3 +1,5 @@
+//Create a constructor which takes three integer values and initialises the date appropriately.
+
 public class Date
 {
     private int day;
