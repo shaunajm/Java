@@ -1,3 +1,5 @@
+//Add a default constructor which initialises the date to beginning of this millenium.
+
 public class Date
 {
     private int day;
